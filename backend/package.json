@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "graphql-yoga": "^1.18.3",
+    "graphql-yoga": "^2.13.13",
     "mongoose": "^5.9.20"
   }
 }
